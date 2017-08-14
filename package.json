@@ -1,30 +1,30 @@
 {
-	"name": "lock-cli",
-	"version": "0.0.0",
-	"description": "Lock your Mac from the command-line",
-	"license": "MIT",
-	"repository": "sindresorhus/lock-cli",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
-	},
-	"bin": {
-		"lock": "lock"
-	},
-	"files": [
-		"lock"
-	],
-	"keywords": [
-		"cli-app",
-		"cli",
-		"macos",
-		"mac",
-		"lock",
-		"system",
-		"screen",
-		"os",
-		"login",
-		"password"
-	]
+  "name": "lock-cli",
+  "version": "1.0.0",
+  "description": "Lock your Mac from the command-line",
+  "license": "MIT",
+  "repository": "sindresorhus/lock-cli",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bin": {
+    "lock": "lock"
+  },
+  "files": [
+    "lock"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "macos",
+    "mac",
+    "lock",
+    "system",
+    "screen",
+    "os",
+    "login",
+    "password"
+  ]
 }
