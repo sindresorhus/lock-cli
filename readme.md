@@ -1,8 +1,10 @@
 # lock-cli
 
-> Lock your Mac from the command-line
+> Lock your system from the command-line
 
-Convenience npm package for the [`lock` binary](https://github.com/sindresorhus/macos-lock).
+Shows the login screen the next time you use the computer.
+
+Supports macOS and Windows.
 
 
 ## Install
