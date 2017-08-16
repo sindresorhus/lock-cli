@@ -9,8 +9,13 @@ Supports macOS and Windows.
 
 ## Install
 
+With `npm`:
 ```
 $ npm install --global lock-cli
+```
+Or, with `yarn`:
+```
+$ yarn global add lock-cli
 ```
 
 
