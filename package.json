@@ -1,35 +1,35 @@
 {
-	"name": "lock-cli",
-	"version": "1.1.0",
-	"description": "Lock your system from the command-line",
-	"license": "MIT",
-	"repository": "sindresorhus/lock-cli",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
-	},
-	"bin": {
-		"lock": "cli.js"
-	},
-	"files": [
-		"cli.js"
-	],
-	"keywords": [
-		"cli-app",
-		"cli",
-		"lock",
-		"system",
-		"macos",
-		"mac",
-		"linux",
-		"windows",
-		"screen",
-		"os",
-		"login",
-		"password"
-	],
-	"dependencies": {
-		"lock-system": "^1.2.0"
-	}
+  "name": "lock-cli",
+  "version": "1.2.0",
+  "description": "Lock your system from the command-line",
+  "license": "MIT",
+  "repository": "sindresorhus/lock-cli",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bin": {
+    "lock": "cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "lock",
+    "system",
+    "macos",
+    "mac",
+    "linux",
+    "windows",
+    "screen",
+    "os",
+    "login",
+    "password"
+  ],
+  "dependencies": {
+    "lock-system": "^1.2.0"
+  }
 }
