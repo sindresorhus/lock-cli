@@ -1,6 +1,6 @@
 {
 	"name": "lock-cli",
-	"version": "1.2.0",
+	"version": "2.0.0",
 	"description": "Lock your system from the command-line",
 	"license": "MIT",
 	"repository": "sindresorhus/lock-cli",
