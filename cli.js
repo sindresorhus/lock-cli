@@ -1,3 +1,4 @@
 #!/usr/bin/env node
-'use strict';
-require('lock-system')();
+import lockSystem from 'lock-system';
+
+lockSystem();
